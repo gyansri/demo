@@ -3,6 +3,7 @@ package com.example.demo;
 public class Person implements AB {
     private int age;
     private int id;
+    private String name;
 
 
     public void test() {
